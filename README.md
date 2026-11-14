@@ -22,4 +22,4 @@ Sitede kişisel gelişim, motivasyon, kitap okuma ve günlük yaşam konularınd
 index.html dosyasını tarayıcıda açarak siteyi görüntüleyebilirsiniz.
 
 ## GitHub Bağlantısı
-Proje bağlantısı buraya eklenecektir.
+https://github.com/elifzulalulger/Blog
